@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1388534400000,
+        "text": "Hey there!",
+        "likes": 81,
+        "author": "Pete Hunt"
+    },
+    {
+        "id": 1420070400000,
+        "text": "React is *great*!",
+        "likes": 18,
+        "author": "Paul O\u2019Shannessy"
+    },
+    {
+        "text": "111111",
+        "author": "1",
+        "id": 1469534550617,
+        "likes": 19
+    },
+    {
+        "text": "11111111111",
+        "likes": 6,
+        "id": 1469538756287,
+        "author": "1"
+    },
+    {
+        "text": "11111",
+        "author": "1",
+        "id": 1469538756634,
+        "likes": 11
+    },
+    {
+        "id": 1469538869341,
+        "text": "wewe ***2323***",
+        "likes": 0,
+        "author": "qwe"
+    },
+    {
+        "text": "**123**",
+        "author": "123",
+        "likes": 0,
+        "id": 1469538876997
+    },
+    {
+        "text": "*lol*",
+        "likes": 0,
+        "id": 1469538886716,
+        "author": "wer"
+    }
+]
